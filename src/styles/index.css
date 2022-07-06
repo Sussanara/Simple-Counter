@@ -1,6 +1,8 @@
 .Counter{
     text-align: center;
     background: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 .Counter div{
     display: inline-block;
