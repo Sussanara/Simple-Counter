@@ -1,4 +1,18 @@
+.Counter{
+    text-align: center;
+    background: black;
+}
+.Counter div{
+    display: inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    height: 80px;
+    background: #101010;
+    color: white;
+    padding: 10px;
+    margin: 6px;
 
+}
 /* 
 
     You can write your own styles here...
